@@ -36,13 +36,19 @@ launch Ganache
 
 # Test
 `truffle test ./test/TestERC721Mintable.js --network development`
+
 `truffle test ./test/TestSolnSquareVerifier.js --network development`
+
 `truffle test ./test/TestSquareVerifier.js --network development`
+
 
 # Deploy to ropsten
 log in infura
+
 log in metamask
+
 `truffle migrate --network ropsten`
+
 
 # Token on ropsten
 # log in metamask
