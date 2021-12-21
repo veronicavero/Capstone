@@ -42,12 +42,12 @@ launch Ganache
 `truffle test ./test/TestSquareVerifier.js --network development`
 
 
-# Deploy to ropsten
+# Deploy to rinkeby
 log in infura
 
 log in metamask
 
-`truffle migrate --network ropsten`
+`truffle migrate --network rinkeby`
 
 
 # Token on rinkeby
