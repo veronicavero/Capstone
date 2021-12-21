@@ -50,14 +50,6 @@ log in metamask
 `truffle migrate --network ropsten`
 
 
-# Token on ropsten
-# log in metamask
-# minted 10 tokens using myEtherWallet.com
-
-## https://ropsten.etherscan.io/address/0x642cc66237911761e893d51a8ad7b531bed792ad
-
-## ropsten does not work with open sea, hence switch to rinkeby
-
 # Token on rinkeby
 ### how to get the rinkeby faucet test ether https://faucets.chain.link/rinkeby
 https://rinkeby.etherscan.io/address/0xd457091e525650f4e6f63b61a87f66f6ae027316
@@ -862,6 +854,7 @@ contract [SolnSquareVerifier] abi also copied here as the string:
 https://testnets.opensea.io/collection/real-estate-exchange-6nljb0fsvl
 
 5 listing and 5 buy activities
+
 https://testnets.opensea.io/collection/real-estate-exchange-6nljb0fsvl?tab=activity&search[isSingleCollection]=true&search[eventTypes][0]=AUCTION_SUCCESSFUL&search[eventTypes][1]=AUCTION_CREATED
 
 # Project Resources
