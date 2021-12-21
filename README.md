@@ -51,7 +51,7 @@ log in metamask
 
 
 # Token on rinkeby
-### how to get the rinkeby faucet test ether https://faucets.chain.link/rinkeby
+
 https://rinkeby.etherscan.io/address/0xd457091e525650f4e6f63b61a87f66f6ae027316
 
 Contract [SolnSquareVerifier] abi can be found in: eth-contracts/build/contracts/SolnSquareVerifier.json
